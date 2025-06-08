@@ -1,2 +1,3 @@
-# ToDoList_MEAN
+# ToDoList
+
 To do list using MEAN technology
